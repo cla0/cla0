@@ -1,13 +1,31 @@
-    \\ This is a contract between you and ""CLA0, Inc."" (CLA0, Inc., California corporation number [Entity Number]).
+""CLA0, Inc."" (CLA0, Inc., California corporation number [Entity Number]) offers you a contract on the following terms.
 
-    \\ The purpose of <CLA0, Inc.> and this contract is to make explicit the tradition of impliedly licensing contributions to open-source software projects on the same license terms as the projects themselves are licensed to the public, with flexibility to change project license terms in the future.
+    \ Background \
 
-    \\ <CLA0, Inc.> publishes versions of ""the CLA0 Protocol"" on the World Wide Web at https://protocol.cla0.org/.
+        \\ The purpose of <CLA0, Inc.> and this contract is to make explicit the tradition of impliedly licensing contributions to open-source software projects on the same license terms as the projects themselves are licensed to the public.
 
-    \\ By signing this agreement, you grant <CLA0, Inc.> a special license. That license covers your intellectual property rights in contributions you make to open-source software projects that use <the CLA0 Protocol> when you make your contributions. The license allows <CLA0, Inc.> to sublicense your rights to the public on the terms of the project as specified according to <the CLA0 Protocol>.
+        \\ Open-source projects can show that they follow this tradition using the ""CLA0 Protocol"". <CLA0, Inc.> publishes versions of the <CLA0 Protocol> via the World Wide Web at https://protocol.cla0.org/.
 
-    \\ The special license is "nonexclusive". You keep ownership and remain free to grant other licenses.
+    \ License \
 
-    \\ In return, <CLA0, Inc.> promises to make information about this contract publicly accessible via the ""CLA0 Registry"" at https://registry.cla0.org/.
+        \\ By signing this agreement, you grant <CLA0, Inc.> an intellectual property license, the ""License to License"".
 
-    \\ <CLA0, Inc.> may end this contract at any time by posting a notification to the <CLA0 Registry> or sending you an e-mail. You may end this contract at any time via the <CLA0 Registry>. The special license that you grant <CLA0, Inc.> in this contract continues after this contract ends so that any sublicenses <CLA0, Inc.> granted under it remain valid. However, the special license will not cover any intellectual property rights in contributions that you make after this contract ends.
+        \\ The <License to License> covers your intellectual property rights in each contribution you make to an open-source software projects using the <CLA0 Protocol> when you make the contribution, the ""IP in Your Contributions"".
+
+        \\ The <License to License> allows <CLA0, Inc.> to sublicense the <IP in Your Contributions> to the public. The terms of those sublicenses must be the license terms identified by the open-source project using the <CLA0 Protocol>, with only these changes:
+
+            \\ <CLA0, Inc.> licenses the <IP in Your Contributions> to the public instead of you.
+
+            \\ All warranty disclaimers and limits on the kind or amount of legal liability to licensees protect both <CLA0, Inc.> in addition to you.
+
+            \\ All 
+
+            \\ You are 
+
+        \\ You keep ownership of intellectual property in your contributions and remain free to grant more licenses to others.
+
+        \\ The <License to License> continues after this contract ends so that any sublicenses <CLA0, Inc.> granted under it remain valid. However, the <License to License> does not cover any intellectual property rights in contributions that you make after this contract ends.
+
+    \ Clearinghouse Services \ In return, <CLA0, Inc.> promises to make information about this contract publicly accessible via the ""CLA0 Registry"" at https://registry.cla0.org/.
+
+    \ Ending this Contract \ <CLA0, Inc.> may end this contract at any time by posting a notification to the <CLA0 Registry> or sending you an e-mail. You may end this contract at any time via the <CLA0 Registry>.
